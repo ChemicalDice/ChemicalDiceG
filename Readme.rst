@@ -21,7 +21,8 @@ using the following commands:
 
 .. code:: bash
 
-   pip install numpy pandas tqdm rdkit ChemicalDiceG
+   pip install numpy pandas tqdm rdkit 
+   pip install -i https://test.pypi.org/simple/ ChemicalDiceG==0.0.1
 
 
 Calculation of Embeddings
