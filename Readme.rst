@@ -22,7 +22,7 @@ using the following commands:
 .. code:: bash
 
    pip install numpy pandas tqdm rdkit requests
-   pip install -i https://test.pypi.org/simple/ ChemicalDiceG==0.0.1
+   pip install -i https://test.pypi.org/simple/ ChemicalDiceG==0.0.5
 
 
 Calculation of Embeddings
