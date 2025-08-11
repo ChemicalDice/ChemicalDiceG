@@ -21,7 +21,7 @@ using the following commands:
 
 .. code:: bash
 
-   pip install numpy pandas tqdm rdkit 
+   pip install numpy pandas tqdm rdkit requests
    pip install -i https://test.pypi.org/simple/ ChemicalDiceG==0.0.1
 
 
