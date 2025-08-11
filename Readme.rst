@@ -13,7 +13,7 @@ bioinformatics applications.
 
 
 Install packages
-~~~~~~~~~~~~~~~~
+----------------
 
 To use the **ChemicalDiceG** package, you need to install it along with
 its dependencies. You can install ChemicalDice and its dependencies
