@@ -11,9 +11,6 @@ versatile molecular characterization for downstream cheminformatics and
 bioinformatics applications.
 
 
-Installation
-============
-
 
 Install packages
 ~~~~~~~~~~~~~~~~
@@ -26,8 +23,6 @@ using the following commands:
 
    pip install numpy pandas tqdm rdkit ChemicalDiceG
 
-Running
-=======
 
 Calculation of Embeddings
 --------------------------
