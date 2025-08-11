@@ -26,6 +26,8 @@ using the following commands:
 
    pip install numpy pandas tqdm rdkit ChemicalDiceG
 
+Running
+=======
 
 Calculation of Embeddings
 --------------------------
